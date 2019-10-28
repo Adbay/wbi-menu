@@ -7,5 +7,5 @@
 	<content src="index.html"/>
 	<icon src="media/thumb.png" sl:thumbnail="large" />
 	<!-- Preferences (Optional) -->
-	<preference name="Feed" value="https://script.google.com/macros/s/AKfycbyT8aqQTYSnUeNm67YAt6r3DXqBC_jgO49xMOm7Yx0Sr2o3rhUX/exec?callback=?" sl:type="string" sl:required="true" />
+	<preference name="Feed" value="https://script.google.com/macros/s/AKfycbw1078zv3JMGIlDx2P9J8hT5Y5TXLB7meF4nimdY0OnTsrtme0/exec?callback=?" sl:type="string" sl:required="true" />
 </widget>
