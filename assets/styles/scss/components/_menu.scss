@@ -1,28 +1,29 @@
-section.menu-section{
-    padding: 5rem;
-    position: relative;
-    height: 1080px;
-    .grid-x.title-grid{
-       h1{
-        font-weight: bold;
-        font-size: 5rem;
-        font-family: "Open Sans", sans-serif;
-        margin-bottom: 2rem; 
-       }
+section.menu-section {
+  padding: 5rem;
+  position: relative;
+  height: 1080px;
+  .grid-x.title-grid {
+    h1 {
+      font-weight: bold;
+      font-size: 5rem;
+      font-family: "Open Sans", sans-serif;
+      margin-bottom: 2rem;
     }
-    .grid-x.menu-grid{
-        #menu{
-            font-weight: bold;
-        }
+  }
+  .grid-x.menu-grid {
+    #menu {
+      font-weight: bold;
     }
-    .grid-x.times-grid{
-        position: absolute;
-        bottom: 6rem;
-        h2#times{
-            font-size: 4rem;
-            font-weight: bold;
-            text-decoration: underline;
-            font-family: "Open Sans", sans-serif;
-        }
+  }
+  .grid-x.times-grid {
+    position: absolute;
+    bottom: 6rem;
+    right: 6rem;
+    h2#times {
+      font-size: 4rem;
+      font-weight: bold;
+      text-decoration: underline;
+      font-family: "Open Sans", sans-serif;
     }
+  }
 }
